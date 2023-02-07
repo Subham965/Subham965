@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🎓 I’m a Coding enthusiast & i am currently pursuing B.Tech in  ECE </br>
+🎓 I’m a Coding enthusiast & i am currently pursuing B.Tech in  IT </br>
 👨‍💻 I enjoy learning new things. </br>
 
 ![Subham's github stats](https://github-readme-stats.vercel.app/api?username=subham965&show_icons=true)
